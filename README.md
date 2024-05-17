@@ -2,11 +2,13 @@
 
 - 🌱 Estundando Java no momento
 - 💬 Sempre em busca de aprender coisas novas !!
+<div>
+  <img 
 ---
 <div>
-  <a href="https://github.com/ThiagoLufchitz">
-  <img height="180em" src="https://github-reame-stats.vercel.app/api?username=ThiagoLufchitz&show_icons=true&thema=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-reame-stats.vercel.app/api/top-langs/?username=ThiagoLufchitz&layiyt=compact&langs_count=16&thema=prussian"/>
+  <a href = "https://github.com/ThiagoLufchitz">
+  <img height="180em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoLufchitz&hide_progress=true"/>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=ThiagoLufchitz&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 <div>
 
 

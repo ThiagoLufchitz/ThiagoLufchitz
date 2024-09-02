@@ -1,6 +1,6 @@
 ### Ola Eu sou o Thiago Lufchitz  👋
 
-- 🌱 Estundando Java no momento
+- 🌱 Estundando Java e MySQL no momento
 - 💬 Sempre em busca de aprender coisas novas !!
 <div>
   <img

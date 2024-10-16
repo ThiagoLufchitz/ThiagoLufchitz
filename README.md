@@ -1,6 +1,6 @@
 ### Ola Eu sou o Thiago Lufchitz  👋
 
-- 🌱 Estundando JavaScript e MySQL no momento
+- 🌱 Estundando JavaScript e MongoBD no momento
 - 💬 Sempre em busca de aprender coisas novas !!
 <div>
   <img
